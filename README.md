@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<a href="mailto://kingstonkuan@u.nus.edu">
+<a href="mailto:kingstonkuan@u.nus.edu">
    📫
 </a>
 
