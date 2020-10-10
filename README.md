@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 </a>
 
 <br/>
+<br/>
 
 I'm currently a Computer Engineering Student 🔌 at the National University of Singapore and on the Product team of a fintech 💱 startup, [Wallex](https://wallex.asia/sg/). With past internship experiences in software engineering and data science, I am committed to learning all I can about tech.
 
