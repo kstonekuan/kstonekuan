@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-I'm currently a Computer Engineering Student 🔌 at the National University of Singapore and on the Product team of a fintech 💱 startup, [Wallex](https://wallex.asia/sg/). With past internship experiences in software engineering and data science, I am committed to learning all I can about tech.
+I'm currently a Computer Engineering Student 🔌 at the National University of Singapore and on the Product team of a fintech 💱 startup, [Wallex](https://wallex.asia/sg/). With past experiences in software engineering and data science through [internships](https://www.linkedin.com/in/kingston-kuan/) and [hackathons](https://devpost.com/kstonekuan), I am committed to learning all I can about tech.
 
 ### 🔭 I’m currently working on
 
 - 🌱 [HydRC4nics](https://github.com/OrcaTech-RC4/HydRC4nics) - Smart hydroponic garden
 - 🤖 [E-Duke-8](https://github.com/AY2021S1-CS2113T-F12-3/tp) - Study companion for CS2113T (Software Engineering & OOP)
 - 📑 [Project Portfolio](https://kstonekuan.github.io/)
-- Hacktoberfest 2020
+- 👾 Hacktoberfest 2020
 
 ### 📚 I’m currently learning
 
