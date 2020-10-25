@@ -31,7 +31,7 @@ I'm currently a Computer Engineering Student 🔌 at the National University of 
 
 - 🌱 [HydRC4nics](https://github.com/OrcaTech-RC4/HydRC4nics) - Smart hydroponic garden
 - 🤖 [E-Duke-8](https://github.com/AY2021S1-CS2113T-F12-3/tp) - Study companion for CS2113T (Software Engineering & OOP)
-- 📑 [Project Portfolio](https://kstonekuan.github.io/)
+- 📑 [Project Portfolio](https://kingst.online/)
 - 👾 Hacktoberfest 2020
 
 ### 📚 I’m currently learning
