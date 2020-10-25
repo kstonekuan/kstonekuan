@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
+[![HitCount](http://hits.dwyl.com/kstonekuan/profile.svg)](http://hits.dwyl.com/kstonekuan/profile)
+
 <br/>
 <br/>
 
