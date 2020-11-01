@@ -31,12 +31,11 @@ I'm currently a Computer Engineering Student 🔌 at the National University of 
 
 - 🌱 [HydRC4nics](https://github.com/OrcaTech-RC4/HydRC4nics) - Smart hydroponic garden
 - 🤖 [E-Duke-8](https://github.com/AY2021S1-CS2113T-F12-3/tp) - Study companion for CS2113T (Software Engineering & OOP)
-- 📑 [Project Portfolio](https://kingst.online/)
+- 📑 [kigst.online](https://kingst.online/) - My tech portflio
 
 ### 📚 I’m currently learning
 
 - ☁️ Cloud ([GCP](https://google.qwiklabs.com/public_profiles/43304000-3872-4b46-b1f2-24944a096821)/[AWS](https://credentials.edx.org/credentials/53cb7c5b4f8944da96d4d80c579fe95a/))
-- 🖼️ AR
 - 😵 [Leetcode](https://leetcode.com/kstonekuan/) 
 
 <br/>
