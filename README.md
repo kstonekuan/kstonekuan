@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/kstonekuan)
 
-I'm currently a Computer Engineering Student 🔌 at the National University of Singapore and on the Product team of a fintech 💱 startup, [Wallex](https://wallex.asia/sg/). With past experiences in software engineering and data science through [internships](https://www.linkedin.com/in/kingston-kuan/) and [hackathons](https://devpost.com/kstonekuan), I am committed to learning all I can about tech.
+I'm currently a Computer Engineering Student 🔌 at the National University of Singapore. With past experiences in software engineering and data science through [internships](https://www.linkedin.com/in/kingston-kuan/) and [hackathons](https://devpost.com/kstonekuan), I am committed to learning all I can about tech.
 
 ### 🔭 I’m currently working on
 
