@@ -29,7 +29,8 @@ I'm currently a Computer Engineering Student 💻 at the National University of 
 
 ### 🔭 I’m currently working on
 
-- 🌱 [HydRC4nics](https://github.com/OrcaTech-RC4/HydRC4nics) - Smart hydroponic garden
+- 👼 [Angel and Mortal Bot](https://github.com/kstonekuan/angel-mortal-bot) - Telegram bot for angel and mortal game
+- ⛄ [Snowman Stickers](https://github.com/lingsihui/h-r) - Virtual sticker platform
 - 📑 [kingst.online](https://kingst.online/) - My tech portflio
 
 ### 📚 I’m currently learning
@@ -37,6 +38,7 @@ I'm currently a Computer Engineering Student 💻 at the National University of 
 - ☁️ Cloud ([GCP](https://google.qwiklabs.com/public_profiles/43304000-3872-4b46-b1f2-24944a096821)/[AWS](https://credentials.edx.org/credentials/53cb7c5b4f8944da96d4d80c579fe95a/))
 - 😵 [Leetcode](https://leetcode.com/kstonekuan/) 
 - 📊 Data Science (Incoming DS Intern at Dell Technologies)
+- ⚙️ Software Engineering
 
 <br/>
 
