@@ -37,8 +37,8 @@ I'm currently a Computer Engineering Student 💻 at the National University of 
 
 - ☁️ Cloud ([GCP](https://google.qwiklabs.com/public_profiles/43304000-3872-4b46-b1f2-24944a096821)/[AWS](https://credentials.edx.org/credentials/53cb7c5b4f8944da96d4d80c579fe95a/))
 - 😵 [Leetcode](https://leetcode.com/kstonekuan/) 
-- 📊 Data Science (Incoming DS Intern at Dell Technologies)
-- ⚙️ Software Engineering
+- 📊 Data Science (Incoming DS Intern at Dell - Summer 2021)
+- ⚙️ Software Engineering (Incoming SWE Intern at ByteDance - Fall 2021)
 
 <br/>
 
