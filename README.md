@@ -40,6 +40,9 @@ I'm currently a Computer Engineering Student 💻 at the National University of 
 - 📊 Data Science (Incoming DS Intern at Dell - Summer 2021)
 - ⚙️ Software Engineering (Incoming SWE Intern at ByteDance - Fall 2021)
 
-<br/>
+<hr>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=kstonekuan&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<details close>
+<summary>:zap: GitHub Statistics</summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=kstonekuan&count_private=true&theme=tokyonight" width="400px">
+</details>
