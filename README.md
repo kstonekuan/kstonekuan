@@ -19,15 +19,19 @@ I'm currently a Computer Engineering Undergraduate at the National University of
 
 ### Connect
 
+<p align="left">
+
 <a href="https://www.linkedin.com/in/kingston-kuan/">
-    <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://kingst.online/">
-    <img align="left" alt="Website" src="https://img.shields.io/badge/kingst.online-000000?style=for-the-badge&logoColor=white" />
+    <img alt="Website" src="https://img.shields.io/badge/kingst.online-000000?style=for-the-badge&logoColor=white" />
 </a>
 
-<hr>
+</p>
 
 ### Featured Experience
 
