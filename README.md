@@ -25,8 +25,6 @@ I'm currently a Computer Engineering Undergraduate at the National University of
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://kingst.online/">
     <img alt="Website" src="https://img.shields.io/badge/kingst.online-000000?style=for-the-badge&logoColor=white" />
 </a>
