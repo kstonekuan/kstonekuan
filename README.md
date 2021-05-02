@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋, Kingston here
 
-I'm currently a Computer Engineering Undergraduate at the National University of Singapore. Recently I have the honor of to interning at [TikTok and Dell](#featured-experience) and am committed to learning all I can about tech.
+I'm a Computer Engineering Undergraduate at the National University of Singapore. Recently I have the opportunity of interning at great companies and am committed to learning all I can about tech.
 
 ### Connect
 
@@ -26,20 +26,18 @@ I'm currently a Computer Engineering Undergraduate at the National University of
 </a>
 
 <a href="https://kingst.online/">
-    <img alt="Website" src="https://img.shields.io/badge/kingst.online-000000?style=for-the-badge&logoColor=white" />
+    <img alt="Website" src="https://img.shields.io/badge/kingst.online-8D3316?style=for-the-badge&logoColor=white" />
 </a>
 
 </p>
 
 ### Featured Experience
 
-<details close>
-    <summary>Internships</summary>
+Internships
 
-- ![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) - Software Engineer Intern
-- ![Dell](https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white) - Data Science Intern
+![TikTok](https://img.shields.io/badge/TikTok-Software_Engineer_Intern-202020?labelColor=000000&style=for-the-badge&logo=tiktok&logoColor=white)
+![Dell](https://img.shields.io/badge/Dell-Data_Science_Intern-202020?labelColor=007DB8&style=for-the-badge&logo=dell&logoColor=white)
 
-</details>
 
 <details close>
     <summary>Projects</summary>
