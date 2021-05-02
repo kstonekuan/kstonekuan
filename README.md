@@ -13,36 +13,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 Kingston here
+## Hi there 👋, Kingston here
+
+I'm currently a Computer Engineering Undergraduate at the National University of Singapore. Recently I have the honor of to interning at [TikTok and Dell](#featured-experience) and am committed to learning all I can about tech.
+
+### Connect
 
 <a href="https://www.linkedin.com/in/kingston-kuan/">
-    <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://t.me/kstonekuan">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://kingst.online/">
+    <img align="left" alt="Website" src="https://img.shields.io/badge/kingst.online-000000?style=for-the-badge&logoColor=white" />
 </a>
 
-![Profile views](https://gpvc.arturio.dev/kstonekuan)
+<hr>
 
-I'm currently a Computer Engineering Student 💻 at the National University of Singapore. With past experiences in software engineering and data science through [internships](https://www.linkedin.com/in/kingston-kuan/) and [hackathons](https://devpost.com/kstonekuan), I am committed to learning all I can about tech.
+### Featured Experience
 
-### 🔭 I’m currently working on
+<details close>
+    <summary>Internships</summary>
+
+- ![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) - Software Engineer Intern
+- ![Dell](https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white) - Data Science Intern
+
+</details>
+
+<details close>
+    <summary>Projects</summary>
 
 - 👼 [Angel and Mortal Bot](https://github.com/kstonekuan/angel-mortal-bot) - Telegram bot for angel and mortal game
 - ⛄ [Snowman Stickers](https://github.com/lingsihui/h-r) - Virtual sticker platform
 - 📑 [kingst.online](https://kingst.online/) - My tech portflio
 
-### 📚 I’m currently learning
-
-- ☁️ Cloud ([GCP](https://google.qwiklabs.com/public_profiles/43304000-3872-4b46-b1f2-24944a096821)/[AWS](https://credentials.edx.org/credentials/53cb7c5b4f8944da96d4d80c579fe95a/))
-- 😵 [Leetcode](https://leetcode.com/kstonekuan/) 
-- 📊 Data Science (Incoming DS Intern at Dell - Summer 2021)
-- ⚙️ Software Engineering (Incoming SWE Intern at ByteDance - Fall 2021)
-
-<hr>
-
-<details close>
-<summary>:zap: GitHub Statistics</summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=kstonekuan&count_private=true&theme=tokyonight" width="400px">
 </details>
