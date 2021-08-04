@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <details close>
     <summary>Projects</summary>
 
-- 👼 [Angel and Mortal Bot](https://github.com/kstonekuan/angel-mortal-bot)
+- 👼 [Angel and Mortal Bot](https://chatbotslife.com/building-a-chatbot-for-angel-mortal-5d389ab7acde)
     - Telegram bot for angel and mortal game
 - ⛄ [Snowman Stickers](https://hack-n-roll-stickers.web.app/)
     - Virtual sticker platform
