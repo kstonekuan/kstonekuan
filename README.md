@@ -26,20 +26,6 @@ Here are some ideas to get you started:
     <a href="https://medium.com/@kingst.online">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
-    <a href="https://kstonekuan.github.io/">
-        <img src="https://img.shields.io/badge/Website-8D3316?style=for-the-badge&logoColor=white" />
-    </a>
-</p>
-
-<h2 align="center">Internships</h3>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/kingston-kuan/">
-        <img src="https://img.shields.io/badge/TikTok-Software_Engineering-202020?labelColor=000000&style=for-the-badge&logo=tiktok&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/kingston-kuan/">
-        <img src="https://img.shields.io/badge/Dell-Data_Science-202020?labelColor=007DB8&style=for-the-badge&logo=dell&logoColor=white" />
-    </a>
 </p>
 
 <hr>
