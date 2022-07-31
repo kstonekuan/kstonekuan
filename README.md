@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, Kingston here</h2>
 
 <p align="center">
-    I'm a Computer Engineering Undergraduate at the National University of Singapore. Recently I have the opportunity of interning at great companies and am committed to learning all I can about tech.
+    I'm a Computer Engineering Undergraduate at the National University of Singapore passionate about innovation and tech.
 </p>
 
 <p align="center">
